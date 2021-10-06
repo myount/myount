@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there! 👋
+
+My name is Mike.  By day, I'm a senior software developer at a small startup.  By night, I occasionally write code for fun as well.
 
 <!--
 **myount/myount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
